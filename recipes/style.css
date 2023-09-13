@@ -1,0 +1,26 @@
+.img{
+    height: auto;
+    width: 500px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+    font-family: 'Times New Roman';
+}
+
+h2{
+    color: black;
+    font-family: 'Times New Roman';
+}
+
+h3{
+    text-decoration: underline;
+}
+
+li{
+    padding: 5px;
+}
